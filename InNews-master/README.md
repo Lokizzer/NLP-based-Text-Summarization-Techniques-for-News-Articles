@@ -7,14 +7,6 @@
 This defines a news summarization web application using Streamlit, allowing users to access and read news articles from various sources. Here's an abstract of what the project does the necessary Python libraries are imported, including Streamlit for the 
 web application, BeautifulSoup for web scraping, PIL for image processing, and Newspaper for article extraction.
 
-## Requirements
-
-- Operating System: The product will be operating in both Windows and Linux environments, requiring compatibility with Windows 10 and Windows 11 for optimal performance.
-
-- Web Browser Compatibility: Most of the features will be compatible with the latest version of Mozilla Firefox and Google Chrome web browsers.
-
-- Stable Internet Connection: A stable internet connection is required for this product to run effectively, ensuring seamless access to online resources and real-time data processing.
-
 ## Source
 - For summarizing the news I have used [Newspaper3k](https://newspaper.readthedocs.io/en/latest/)
 - For scraping the news I have used Google News RSS API.

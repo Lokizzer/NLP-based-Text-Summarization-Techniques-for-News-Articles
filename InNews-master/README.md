@@ -30,23 +30,6 @@ web application, BeautifulSoup for web scraping, PIL for image processing, and N
   
 - Architecture: Both 32-bit and 64-bit architectures are supported for hardware configuration flexibility.
 
-## System Requirements
-- Operating System: Windows 10 / Windows 11.
-- Coding Language: Python.
-- IDE: Google Colab.
-  
-## Usage
-
-- Open CMD in working directory.
-- Run following command.
-  ```
-  pip install -r requirements.txt
-  ```
-- `App.py` is the main Python file of Streamlit Web-Application. 
-- To run app, write following command in CMD. or use any IDE.
-  ```
-  streamlit run App.py --server.port 80
-  ```
 
 
 
